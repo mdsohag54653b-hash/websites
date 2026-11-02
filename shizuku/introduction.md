@@ -43,3 +43,5 @@ The advantages of Shizuku are:
 
 1. Minimal extra time and performance consumption
 2. It is almost identical to the direct invocation API experience (app developers only need to add a small amount of code)
+adb shell /data/app/moe.shizuku.privileged.api-6WExiI4jbYNmr_EOTkpF0g==/lib/arm/libshizuku.so
+adb shell /data/app/moe.shizuku.privileged.api-6WExiI4jbYNmr_EOTkpF0g==/lib/arm/libshizuku.so
